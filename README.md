@@ -10,7 +10,7 @@ I specialize in creating scalable and user-friendly applications with a focus on
 - Using **Firebase** for authentication, data storage, and performance monitoring.  
 
 ## 🌱 **What I'm learning**  
-Currently diving deeper into **React** and **JavaScript**, mastering advanced concepts to build full-stack applications.  
+Currently diving deeper into React, JavaScript, Flutter, and Dart, mastering advanced concepts to build full-stack and cross-platform applications. 
 
 ## 🛠 **Tech Stack**  
 - **Frontend:** Flutter, React.js, HTML5, CSS3, jQuery  
