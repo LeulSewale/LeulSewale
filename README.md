@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Leul Sevale**  
+# 👋 Hi, I’m **Leul Sewale**  
 🚀 **Cross-platform Developer | Flutter Enthusiast | React Learner | Problem Solver**
 
 ## 🔧 **What I do**  
