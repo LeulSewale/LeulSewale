@@ -1,97 +1,118 @@
-# 👋 Hi, I’m **Leul Sewale**  
-🚀 *Cross-Platform Developer | Flutter Expert | React Developer | Clean Architecture Advocate*
+# 👋 Hi, I'm **Leul Sewale**
+🚀 *Full-Stack & Mobile Application Developer | Flutter Expert | React Developer | Clean Architecture Advocate*
 
 ---
 
-## 🔧 What I Do  
-I specialize in building **scalable**, **performant**, and **user-centric** applications across mobile and web platforms. I’m passionate about crafting clean, maintainable code using modern tools, design patterns, and architecture.
+## 🔧 About Me
+Versatile, results-driven Software Engineer with **5+ years of experience** building scalable, production-grade web and mobile applications using **Flutter, React (TypeScript), Node.js, Express, GraphQL, MongoDB, and PostgreSQL**. I design and deliver high-performance cross-platform apps, enterprise admin systems, and solutions across **fintech, logistics, healthcare, and education**. I care deeply about Clean Architecture, CI/CD, REST APIs, and cloud-based deployments — with a strong focus on code quality, performance, and user-centric products.
 
-### 🧠 Areas of Focus  
-- **Flutter & Dart** – Building production-ready Android/iOS apps with clean architecture  
-- **React.js & TypeScript** – Developing interactive admin panels, real estate platforms, and dynamic UIs  
-- **Node.js & Express** – Backend services and REST API integration  
-- **Firebase Suite** – Authentication, Firestore, Crashlytics, Remote Config  
-- **Real-Time Features** – WebSockets, location tracking, interactive dashboards  
-- **Modular & Scalable Codebases** – Domain-driven design and layered architecture  
-- **Agile Development** – Iterative workflows, Git-based version control, and task management  
+- 🧠 5+ years shipping production Flutter apps (Android/iOS)
+- 🖥️ Building full-scale web apps with Next.js, TypeScript, Tailwind, React Hook Form, Zod & TanStack Query
+- 🔌 Hands-on with Node.js/Express APIs, GraphQL, Firebase, and real-time features
+- 🏗️ Advocate for Clean Architecture, modular codebases, and separation of concerns
+- 🌍 Based in Addis Ababa, Ethiopia
 
 ---
 
-## 🌱 Currently Evolving  
-- Enhancing my expertise in **full-stack app development** with React, Flutter, and Node.js  
-- Building **modular, production-level admin dashboards** with Zod, React Hook Form, TanStack Query  
-- Mastering **offline support, local databases**, and robust state management patterns  
+## 💼 Work Experience
+
+### **Senior Flutter Engineer & Team Lead** — PitronTech *(Feb 2026 – Present)*
+- Led development of **FMS Fleet Management System** — Customer, Driver & Owner apps with real-time trip management, GPS tracking, notifications, and REST API integration.
+- Built **Yehulu Official**, a secure digital finance app with wallets, money transfers, bill payments, and merchant services.
+- Built **Yehulu Cash Collection** for field agents — secure cash collection, digital receipts, offline sync.
+- Developed **FinOS**, a Flutter-based SACCO financial platform (member management, savings/loans, payments, secure auth).
+- Designed scalable apps with Clean Architecture, BLoC, Riverpod & Provider; mentored developers and managed Play Store releases.
+
+### **Mobile Application Developer** — VISTECH PLC *(Jul 2025 – Mar 2026)*
+- Built a **Telehealth** app (Flutter, GraphQL, Riverpod) with secure patient-doctor communication and video consultations via **Agora RTC Engine**.
+- Built **KlickOps** & **Klick Customer** — logistics apps with real-time driver tracking and delivery management.
+- Optimized performance through efficient state management, API integration, and reusable components.
+
+### **Full-Stack Developer (Remote)** — Tradial Technology *(Apr 2025 – Oct 2025)*
+- Architected three production platforms: Flutter, Express.js, TypeScript (Monorepo), PostgreSQL, MongoDB, Docker, CI/CD on VPS.
+- **Lamme Dairy Distribution System** — mobile app for field distributors + admin dashboard for inventory, orders, and reporting.
+- **Tele Tender Platform** — tender browsing, subscriptions, secure bidding-document payments, role-based workflows.
+- **ELDA Platform** — enterprise employee management system with multilingual communication and RBAC.
+- Leveraged AI-assisted development tools to accelerate delivery while maintaining production standards.
+
+### **Frontend Developer (Remote)** — Trust Technology PLC *(Feb 2025 – May 2025)*
+- Built **EthioTrustAsset**, a commercial asset management web app (React.js + TypeScript).
+- Built the **Amharic Typing System** for the **National Bank of Ethiopia** (C#/.NET) — multi-layout Ge'ez keyboard support and an integrated Ethiopian calendar with date conversion and holidays.
+
+### **Mobile Application Developer** — NunaTech PLC *(Dec 2023 – Mar 2025)*
+- Enhanced **NuTemaru**, an e-learning app — Google Sign-In, Firebase Crashlytics, Remote Config, secure payments.
+- Implemented BLoC state management and multi-Android-version compatibility; managed Play Store releases.
+
+### **Full-Stack Developer** — Dallol Tech PLC *(Dec 2022 – Dec 2023)*
+- Built an **e-School** mobile app and online learning platform (student management, courses, assessments).
+- Built **online bus ticketing, e-commerce, and ride-hailing apps** with secure auth, booking, and real-time tracking.
+- Developed responsive React.js/HTML/CSS/JS web front-ends integrated with REST APIs.
 
 ---
 
-## 🛠 Tech Stack  
+## 🌟 Featured Projects
 
-**Frontend**  
-- Flutter, Dart, React.js, TypeScript, HTML5, CSS3, Tailwind CSS  
-
-**Backend**  
-- Node.js, Express.js, Firebase Functions  
-
-**State Management**  
-- BLoC, Provider, GetX, React Context, TanStack Query  
-
-**Database & Cloud**  
-- Firebase (Firestore, Auth, Crashlytics), Hive, LocalStorage  
-
-**Tools & Libraries**  
-- Git & GitHub, WebSockets, React Hook Form, Zod, Shadcn UI, Embla Carousel, Next.js, Clean Architecture, Agile  
-
----
-
-## 🌟 Featured Projects  
-
-### 📱 **NuTemaru App** *(Flutter)*
-- Google Sign-In, Firebase Auth & Crashlytics, Payment Integration  
-- Dynamic Remote Config setup  
-- Published on **Google Play Store**
-
-### 📚 **Learning Management Systems (Grades 9–12, Ethiopia)** *(Flutter)*  
-- Educational app with chapters, notes, video resources, and timed exams  
-- Offline support and user-friendly learning progress tracking  
-
-### 🚌 **Online Bus Ticketing App & Website** *(Flutter + Web)*  
-- Real-time booking with seat selection, schedule management, and online payments  
-
-### 🛒 **E-commerce App** *(Flutter)*  
-- Secure payment flow, product listing with search & filters, Firebase integration  
-
-### 🚖 **Ride-Hailing App** *(Flutter)*  
-- Live GPS tracking, trip flow logic, and map-based driver-passenger coordination  
-
-### 🏢 **Property Managment Web and Admin Panel** *(React + Next.js + Tailwind + Shadcn UI)*  
-- Full CRUD with property listings, image uploads, tabs (About, Gallery, Maps, etc.)  
-- Modular architecture using `axios-instance`, React Hook Form, TanStack Query  
-- Custom validation with **Zod**, dynamic form fields, file handling  
-
-### 📝 **Tender Mobile and Web App** *(Flutter,Typescript)*  
-- Filter-based home page with category, CPO toggle, and dynamic tender detail page  
-- Notification system, localized in English and Amharic  
-- Built with Clean Architecture and Bloc  
+| Project | Stack | Highlights |
+|---|---|---|
+| **FMS Fleet Management System** | Flutter, REST API | Real-time trip management & GPS tracking for fleet ops |
+| **Yehulu Official / Cash Collection** | Flutter, REST API | Digital wallet, payments, offline cash collection |
+| **FinOS** | Flutter | SACCO financial platform — savings, loans, secure auth |
+| **Telehealth App** | Flutter, GraphQL, Riverpod, Agora RTC | Patient-doctor video consultations |
+| **KlickOps / Klick Customer** | Flutter, GraphQL | Real-time logistics & delivery tracking |
+| **Lamme Dairy Distribution System** | Flutter, Express.js, PostgreSQL, MongoDB | Field distribution + admin dashboard |
+| **Tele Tender Platform** | Flutter, TypeScript | Tender browsing, subscriptions, secure bidding payments |
+| **ELDA Platform** | Full-stack | Enterprise employee management, multilingual, RBAC |
+| **EthioTrustAsset** | React.js, TypeScript | Commercial asset management web app |
+| **Amharic Typing System (NBE)** | C#, .NET | Ge'ez keyboard layouts + Ethiopian calendar |
+| **NuTemaru** | Flutter, Firebase | E-learning app on Google Play Store |
+| **Property Management Web & Admin Panel** | React, Next.js, Tailwind, Shadcn UI | Full CRUD, image uploads, Zod validation |
+| **Online Bus Ticketing App & Website** | Flutter + Web | Real-time seat booking & payments |
+| **E-commerce App** | Flutter | Secure payments, product search & filters |
+| **Ride-Hailing App** | Flutter | Live GPS tracking, driver-passenger coordination |
+| **Learning Management System (Grades 9–12)** | Flutter | Offline-capable courses, notes, timed exams |
 
 ---
 
-## 💼 Real Experience Summary  
-- **Flutter:** 3+ years building complex cross-platform mobile apps  
-- **React:** Transitioned from learner to developer — currently building full-scale production-ready web apps with **Next.js**,**TypeScript**, **Tailwind CSS**, **React Hook Form**, **Zod**, and **TanStack Query**  
-- **Backend:** Hands-on experience integrating **Node.js APIs**, **Firebase**, and real-time data features  
-- **Architecture:** Advocating and implementing **Clean Architecture**, **separation of concerns**, and **modular codebase** practices  
-- **Dev Workflow:** Familiar with **Agile**, Git version control, task-based development, and component-based UI design  
+## 🛠 Tech Stack
+
+**Frontend**
+`Flutter` `Dart` `React.js` `Next.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Shadcn UI`
+
+**Backend**
+`Node.js` `Express.js` `GraphQL` `Firebase Functions` `C# / .NET`
+
+**Databases & Cloud**
+`PostgreSQL` `MongoDB` `Firebase (Firestore, Auth, Crashlytics, Remote Config)` `Hive` `LocalStorage`
+
+**State Management**
+`BLoC` `Cubit` `Riverpod` `Provider` `GetX` `React Context` `TanStack Query`
+
+**Architecture & Tools**
+`Clean Architecture` `Repository Pattern` `Git & GitHub` `Docker` `CI/CD` `VPS Deployment` `Postman` `Agile/Scrum`
+
+**Integrations**
+`REST APIs` `WebSockets` `Agora RTC Engine` `Payment Gateway (Chapa)` `Push Notifications` `React Hook Form` `Zod`
 
 ---
 
-## 📫 Let’s Connect  
-Whether you’re building a product, looking for collaboration, or want to exchange ideas — I’d love to connect!
+## 🎓 Education
+**BSc in Software Engineering** — Bahir Dar University, Ethiopia *(Sep 2018 – Aug 2022)*
 
-- 🌐 **Portfolio:** [portfolio-leul.vercel.app](https://portfolio-leul.vercel.app/)  
-- 💼 [LinkedIn – Leul Sewale](https://www.linkedin.com/in/leul-sewale-5734b0246/)  
-- 📧 **Email:** leulsewale10@gmail.com  
+## 🌐 Languages
+- English (Fluent)
+- Amharic (Native)
+
+---
+
+## 📫 Let's Connect
+Whether you're building a product, looking for collaboration, or want to exchange ideas — I'd love to connect!
+
+- 🌐 **Portfolio:** [leulsewale.com](https://www.leulsewale.com)
+- 💼 [LinkedIn – Leul Sewale](https://www.linkedin.com/in/leul-sewale-5734b0246/)
+- 📧 **Email:** leulsewale10@gmail.com
 - 🧑‍💻 [GitHub – @leulsewale](https://github.com/leulsewale)
+- 📱 +251 940 666 299
 
 ---
 
-> *“First, solve the problem. Then, write the code.” – John Johnson*
+> *"First, solve the problem. Then, write the code." – John Johnson*
